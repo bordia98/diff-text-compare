@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://bordia98.github.io/diff-text-compare/sitemap.xml
